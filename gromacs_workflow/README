@@ -1,0 +1,2 @@
+The PDB file is taken from http://ambermd.org/tutorials/advanced/tutorial26/files/ALA.pdb and modified slightly to remove the termini.
+The test data are used for automatically running a test Galaxy workflow for GROMACS, located here: https://github.com/usegalaxy-eu/workflow-testing/tree/master/training/computational-chemistry/gromacs
